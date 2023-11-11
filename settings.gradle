@@ -1,0 +1,3 @@
+rootProject.name = 'spring-boot-rabbitmq'
+include 'publisher-service'
+include 'subscriber-service'
